@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammadelhsn 
-- 👀 I’m interested in ... Star Wars, Coding and Pizza!!!
-- 🌱 I’m currently learning ... Node.js, Typescript, Python, HTML, CSS, JS and a couple more
+- 👋 Hi, I’m @mohammadelhsn!
+- 👀 I’m interested in ... Coding!
+- 🌱 I’m currently learning ... Java
 - 📫 How to reach me ... WIP
