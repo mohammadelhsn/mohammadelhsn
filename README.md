@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mohammadelhsn!
 - 👀 I’m interested in ... Coding!
-- 🌱 I’m currently learning ... Java
-- 📫 How to reach me ... WIP
+- 🌱 I’m currently learning ... React + TS + Vite
+- 📫 How to reach me ... mohammadelhsn.github.io
