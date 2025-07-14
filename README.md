@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mohammadelhsn!
 - 👀 I’m interested in ... Coding!
-- 🌱 I’m currently learning ... React + TS + Vite
+- 🌱 I’m currently learning ... React/TS/Vite, React-Native/TS/Expo
 - 📫 How to reach me ... https://mohammadelhsn.github.io
