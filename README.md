@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋, I'm Mohammad El-Hassan!</h1>
 
-<p align="left">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F2F2&center=true&vCenter=true&width=435&lines=Software+Developer;React+%2F+TypeScript+Enthusiast;Full-Stack+Learner;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
@@ -18,8 +18,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadelhsn&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadelhsn&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadelhsn&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats" width="48%" height="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadelhsn&layout=compact&theme=dark&hide_border=true" width="48%" height="50%" />
 </p>
 
 ---
