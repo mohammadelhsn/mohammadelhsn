@@ -1,23 +1,26 @@
-<h1 align="center">Hi there 👋, I'm Mohammad El-Hassan!</h1>
+<h1>Hi there 👋, I'm Mohammad El-Hassan!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F2F2&center=true&vCenter=true&width=435&lines=Software+Developer;React+%2F+TypeScript+Enthusiast;Full-Stack+Learner;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F2F2&width=435&lines=Software+Developer;React+%2F+TypeScript+Enthusiast;Full-Stack+Learner;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://mohammadelhsn.github.io"><img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+  <a href="https://mohammadelhsn.github.io"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubpages" /></a>
+  <a href="mailto:mohammadelhsn@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/mohammadelhsn"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" /></a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 👨‍💻 Developer passionate about clean code and great UI/UX  
-- ⚡ Currently working with **React/TypeScript/Vite** & **React Native/Expo**  
-- 🌱 Always learning — next up: backend scaling and testing  
-- 🔗 Portfolio: [mohammadelhsn.github.io](https://mohammadelhsn.github.io)
+- 👨‍💻 Passionate full-stack developer specializing in **TypeScript** with hands-on experience building web and mobile apps
+- 🎓 Pursuing a degree in Computer Science and Psychology, combining technical skills with human-centered design
+- 🤖 Creator of multiple Discord bots using TypeScript, JavaScript, C#, and C++ — including a major project with PostgreSQL and Heroku hosting
+- ⚙️ Developed a custom API powering my portfolio and various projects, showcasing backend architecture and API design skills
+- 🚀 Actively working with **React**, **React Native**, **Vite**, and **Expo** to build performant user interfaces
+- 🌱 Always learning and expanding my toolkit — next goals include backend scaling, testing, and advanced TypeScript patterns
+- 🔗 Portfolio & projects: [mohammadelhsn.github.io](https://mohammadelhsn.github.io)
 
 ---
 
@@ -32,52 +35,70 @@
 
 ### 🛠️ Tech Stack
 
-#### 🧩 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,materialui,html,css,js" />
-</p>
+### 🔤 Programming Languages
 
-#### 📱 Mobile
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-</p>
+![C](https://go-skill-icons.vercel.app/api/icons?i=c&title)
+![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=javascript&title)
+![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts&title)
+![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly&title)
+![Java](https://go-skill-icons.vercel.app/api/icons?i=java&title)
 
-#### 🖥️ Backend
-<p>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
-</p>
+### 🧩 Frontend
 
-#### 🛢️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+![React](https://go-skill-icons.vercel.app/api/icons?i=react&title)
+![Electron](https://go-skill-icons.vercel.app/api/icons?i=electron&title)
+![Material UI](https://go-skill-icons.vercel.app/api/icons?i=mui&title)
+![CSS](https://go-skill-icons.vercel.app/api/icons?i=css&title)
+![HTML](https://go-skill-icons.vercel.app/api/icons?i=html&title)
+![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite&title)
 
-#### 🧪 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
-</p>
+### 📱 Mobile
 
-#### 💻 IDEs & Docs
-<p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white"/>
-</p>
+![Android](https://go-skill-icons.vercel.app/api/icons?i=android&title)
+![iOS](https://go-skill-icons.vercel.app/api/icons?i=apple&title)
+![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative&title)
+![Expo](https://go-skill-icons.vercel.app/api/icons?i=expo&title)
 
-#### 🔤 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</p>
+### 🖥️ Backend
+
+![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs&title)
+![Express](https://go-skill-icons.vercel.app/api/icons?i=express&title)
+![Axios](https://go-skill-icons.vercel.app/api/icons?i=axios&title)
+![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase&title)
+![Discord.js](https://go-skill-icons.vercel.app/api/icons?i=discordjs&title)
+
+### 🛢️ Databases
+
+![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb&title)
+![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql&title)
+![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgres&title)
+
+### 🧪 Tools & Platforms
+
+![Git](https://go-skill-icons.vercel.app/api/icons?i=git&title)
+![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&title)
+![GitHub Pages](https://go-skill-icons.vercel.app/api/icons?i=githubpages&title)
+![Heroku](https://go-skill-icons.vercel.app/api/icons?i=heroku&title)
+![Vercel](https://go-skill-icons.vercel.app/api/icons?i=vercel&title)
+![Postman](https://go-skill-icons.vercel.app/api/icons?i=postman&title)
+![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord&title)
+
+### 💻 Development Environment
+
+![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode&title)
+![Brave](https://go-skill-icons.vercel.app/api/icons?i=brave&title)
+![Prettier](https://go-skill-icons.vercel.app/api/icons?i=prettier&title)
+![Terminal](https://go-skill-icons.vercel.app/api/icons?i=terminal&title)
+
+### 📦 Package Managers
+
+![NPM](https://go-skill-icons.vercel.app/api/icons?i=npm&title)
+![Yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&title)
+
+### 🔤 What's Next?
+
+![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust&title)
+![R](https://go-skill-icons.vercel.app/api/icons?i=r&title)
+![C#](https://go-skill-icons.vercel.app/api/icons?i=cs&title)
+![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&title)
+![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua&title)
