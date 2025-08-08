@@ -37,71 +37,73 @@
 
 ### 🔤 Programming Languages
 
-![C](https://go-skill-icons.vercel.app/api/icons?i=c&title)
-![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=javascript&title)
-![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts&title)
-![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly&title)
-![Java](https://go-skill-icons.vercel.app/api/icons?i=java&title)
+![C](https://go-skill-icons.vercel.app/api/icons?i=c&titles=true)
+![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=javascript&titles=true)
+![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts&titles=true)
+![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly&titles=true)
+![Python](https://go-skill-icons.vercel.app/api/icons?i=python&titles=true)
+![Java](https://go-skill-icons.vercel.app/api/icons?i=java&titles=true)
 
 ### 🧩 Frontend
 
-![React](https://go-skill-icons.vercel.app/api/icons?i=react&title)
-![Electron](https://go-skill-icons.vercel.app/api/icons?i=electron&title)
-![Material UI](https://go-skill-icons.vercel.app/api/icons?i=mui&title)
-![CSS](https://go-skill-icons.vercel.app/api/icons?i=css&title)
-![HTML](https://go-skill-icons.vercel.app/api/icons?i=html&title)
-![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite&title)
+![React](https://go-skill-icons.vercel.app/api/icons?i=react&titles=true)
+![Electron](https://go-skill-icons.vercel.app/api/icons?i=electron&titles=true)
+![Material UI](https://go-skill-icons.vercel.app/api/icons?i=mui&titles=true)
+![CSS](https://go-skill-icons.vercel.app/api/icons?i=css&titles=true)
+![HTML](https://go-skill-icons.vercel.app/api/icons?i=html&titles=true)
+![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite&titles=true)
 
 ### 📱 Mobile
 
-![Android](https://go-skill-icons.vercel.app/api/icons?i=android&title)
-![iOS](https://go-skill-icons.vercel.app/api/icons?i=apple&title)
-![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative&title)
-![Expo](https://go-skill-icons.vercel.app/api/icons?i=expo&title)
+![Android](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true)
+![iOS](https://go-skill-icons.vercel.app/api/icons?i=apple&titles=true)
+![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative&titles=true)
+![Expo](https://go-skill-icons.vercel.app/api/icons?i=expo&titles=true)
 
 ### 🖥️ Backend
 
-![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs&title)
-![Express](https://go-skill-icons.vercel.app/api/icons?i=express&title)
-![Axios](https://go-skill-icons.vercel.app/api/icons?i=axios&title)
-![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase&title)
-![Discord.js](https://go-skill-icons.vercel.app/api/icons?i=discordjs&title)
+![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs&titles=true)
+![Express](https://go-skill-icons.vercel.app/api/icons?i=express&titles=true)
+![Axios](https://go-skill-icons.vercel.app/api/icons?i=axios&titles=true)
+![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true)
+![Discord.js](https://go-skill-icons.vercel.app/api/icons?i=discordjs&titles=true)
 
 ### 🛢️ Databases
 
-![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb&title)
-![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql&title)
-![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgres&title)
+![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb&titles=true)
+![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true)
+![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgres&titles=true)
 
 ### 🧪 Tools & Platforms
 
-![Git](https://go-skill-icons.vercel.app/api/icons?i=git&title)
-![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&title)
-![GitHub Pages](https://go-skill-icons.vercel.app/api/icons?i=githubpages&title)
-![Heroku](https://go-skill-icons.vercel.app/api/icons?i=heroku&title)
-![Vercel](https://go-skill-icons.vercel.app/api/icons?i=vercel&title)
-![Postman](https://go-skill-icons.vercel.app/api/icons?i=postman&title)
-![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord&title)
+![Git](https://go-skill-icons.vercel.app/api/icons?i=git&titles=true)
+![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&titles=true)
+![GitHub Pages](https://go-skill-icons.vercel.app/api/icons?i=githubpages&titles=true)
+![Heroku](https://go-skill-icons.vercel.app/api/icons?i=heroku&titles=true)
+![Vercel](https://go-skill-icons.vercel.app/api/icons?i=vercel&titles=true)
+![Postman](https://go-skill-icons.vercel.app/api/icons?i=postman&titles=true)
+![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true)
 
 ### 💻 Development Environment
 
-![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode&title)
-![Brave](https://go-skill-icons.vercel.app/api/icons?i=brave&title)
-![Prettier](https://go-skill-icons.vercel.app/api/icons?i=prettier&title)
-![Terminal](https://go-skill-icons.vercel.app/api/icons?i=terminal&title)
+![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode&titles=true)
+![Brave](https://go-skill-icons.vercel.app/api/icons?i=brave&titles=true)
+![Prettier](https://go-skill-icons.vercel.app/api/icons?i=prettier&titles=true)
+![Terminal](https://go-skill-icons.vercel.app/api/icons?i=terminal&titles=true)
 
 ### 📦 Package Managers
 
-![NPM](https://go-skill-icons.vercel.app/api/icons?i=npm&title)
-![Yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&title)
+![NPM](https://go-skill-icons.vercel.app/api/icons?i=npm&titles=true)
+![Yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&titles=true)
 
 ### 🔤 What's Next?
 
-![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust&title)
-![Dart](https://go-skill-icons.vercel.app/api/icons?i=dart&title)
-![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter&title)
-![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular&title)
-![R](https://go-skill-icons.vercel.app/api/icons?i=r&title)
-![C#](https://go-skill-icons.vercel.app/api/icons?i=cs&title)
-![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&title)
-![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua&title)
+![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true)
+![Go](https://go-skill-icons.vercel.app/api/icons?i=go&titles=true)
+![Dart](https://go-skill-icons.vercel.app/api/icons?i=dart&titles=true)
+![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true)
+![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular&titles=true)
+![R](https://go-skill-icons.vercel.app/api/icons?i=r&titles=true)
+![C#](https://go-skill-icons.vercel.app/api/icons?i=cs&titles=true)
+![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true)
+![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua&titles=true)
