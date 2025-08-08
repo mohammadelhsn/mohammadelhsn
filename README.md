@@ -98,6 +98,9 @@
 ### 🔤 What's Next?
 
 ![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust&title)
+![Dart](https://go-skill-icons.vercel.app/api/icons?i=dart&title)
+![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter&title)
+![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular&title)
 ![R](https://go-skill-icons.vercel.app/api/icons?i=r&title)
 ![C#](https://go-skill-icons.vercel.app/api/icons?i=cs&title)
 ![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&title)
