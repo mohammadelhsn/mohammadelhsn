@@ -114,9 +114,9 @@
 ### 📦 Package Managers
 
 | Package Manager | Icon                                                                         |
-|-----------------|------------------------------------------------------------------------------|
-| NPM             | ![NPM](https://go-skill-icons.vercel.app/api/icons?i=npm&titles=true)         |
-| Yarn            | ![Yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&titles=true)       |
+|----------|------------------------------------------------------------------------------|
+| NPM      | ![NPM](https://go-skill-icons.vercel.app/api/icons?i=npm&titles=true)         |
+| Yarn     | ![Yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&titles=true)       |
 
 ### 🔤 What's Next?
 
