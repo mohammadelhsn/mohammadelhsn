@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 - 👨‍💻 Passionate full-stack developer specializing in **TypeScript** with hands-on experience building web and mobile apps
 - 🎓 Pursuing a degree in Computer Science and Psychology, combining technical skills with human-centered design
@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadelhsn&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats" width="48%" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 🔤 Programming Languages
 
