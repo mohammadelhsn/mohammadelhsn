@@ -35,91 +35,115 @@
 
 ## 🛠️ Tech Stack
 
-### 🔤 Programming Languages
+<details>
+  <summary>🔤 Programming Languages</summary>
 
-| Language   | Icon                                                                                  |
-|------------|---------------------------------------------------------------------------------------|
-| Assembly   | ![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly&titles=true)       |
-| C          | ![C](https://go-skill-icons.vercel.app/api/icons?i=c&titles=true)                     |
-| Dart       | ![Dart](https://go-skill-icons.vercel.app/api/icons?i=dart&titles=true)               |
-| Go         | ![Go](https://go-skill-icons.vercel.app/api/icons?i=go&titles=true)                   |
-| Java       | ![Java](https://go-skill-icons.vercel.app/api/icons?i=java&titles=true)               |
-| JavaScript | ![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=javascript&titles=true)   |
-| Python     | ![Python](https://go-skill-icons.vercel.app/api/icons?i=python&titles=true)           |
-| TypeScript | ![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts&titles=true)           |
+| Language   | Icon                                                                                |
+| ---------- | ----------------------------------------------------------------------------------- |
+| Assembly   | ![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly&titles=true)     |
+| C          | ![C](https://go-skill-icons.vercel.app/api/icons?i=c&titles=true)                   |
+| Dart       | ![Dart](https://go-skill-icons.vercel.app/api/icons?i=dart&titles=true)             |
+| Go         | ![Go](https://go-skill-icons.vercel.app/api/icons?i=go&titles=true)                 |
+| Java       | ![Java](https://go-skill-icons.vercel.app/api/icons?i=java&titles=true)             |
+| JavaScript | ![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=javascript&titles=true) |
+| Python     | ![Python](https://go-skill-icons.vercel.app/api/icons?i=python&titles=true)         |
+| TypeScript | ![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts&titles=true)         |
 
+</details>
 
-### 🧩 Frontend
+<details>
+  <summary>🧩 Frontend</summary>
 
-| Technology  | Icon                                                                                |
-|-------------|-------------------------------------------------------------------------------------|
-| Angular     | ![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular&titles=true)       |
-| CSS         | ![CSS](https://go-skill-icons.vercel.app/api/icons?i=css&titles=true)               |
-| Electron    | ![Electron](https://go-skill-icons.vercel.app/api/icons?i=electron&titles=true)     |
-| Flutter     | ![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true)       |
-| HTML        | ![HTML](https://go-skill-icons.vercel.app/api/icons?i=html&titles=true)             |
-| Material UI | ![Material UI](https://go-skill-icons.vercel.app/api/icons?i=mui&titles=true)       |
-| React       | ![React](https://go-skill-icons.vercel.app/api/icons?i=react&titles=true)           |
-| Vite        | ![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite&titles=true)             |
+| Technology  | Icon                                                                            |
+| ----------- | ------------------------------------------------------------------------------- |
+| Angular     | ![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular&titles=true)   |
+| CSS         | ![CSS](https://go-skill-icons.vercel.app/api/icons?i=css&titles=true)           |
+| Electron    | ![Electron](https://go-skill-icons.vercel.app/api/icons?i=electron&titles=true) |
+| Flutter     | ![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true)   |
+| HTML        | ![HTML](https://go-skill-icons.vercel.app/api/icons?i=html&titles=true)         |
+| Material UI | ![Material UI](https://go-skill-icons.vercel.app/api/icons?i=mui&titles=true)   |
+| React       | ![React](https://go-skill-icons.vercel.app/api/icons?i=react&titles=true)       |
+| Vite        | ![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite&titles=true)         |
 
-### 📱 Mobile
+</details>
 
-| Platform      | Icon                                                                             |
-|---------------|----------------------------------------------------------------------------------|
-| Android       | ![Android](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true)    |
-| Expo          | ![Expo](https://go-skill-icons.vercel.app/api/icons?i=expo&titles=true)          |
-| Flutter       | ![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true)    |
-| iOS           | ![iOS](https://go-skill-icons.vercel.app/api/icons?i=apple&titles=true)          |
-| React Native  | ![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative&titles=true) |
+<details>
+  <summary>📱 Mobile</summary>
 
-### 🖥️ Backend
+| Platform     | Icon                                                                                   |
+| ------------ | -------------------------------------------------------------------------------------- |
+| Android      | ![Android](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true)          |
+| Expo         | ![Expo](https://go-skill-icons.vercel.app/api/icons?i=expo&titles=true)                |
+| Flutter      | ![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true)          |
+| iOS          | ![iOS](https://go-skill-icons.vercel.app/api/icons?i=apple&titles=true)                |
+| React Native | ![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative&titles=true) |
 
-| Technology  | Icon                                                                             |
-|-------------|----------------------------------------------------------------------------------|
-| Axios       | ![Axios](https://go-skill-icons.vercel.app/api/icons?i=axios&titles=true)        |
-| Discord.js  | ![Discord.js](https://go-skill-icons.vercel.app/api/icons?i=discordjs&titles=true)|
-| Express     | ![Express](https://go-skill-icons.vercel.app/api/icons?i=express&titles=true)    |
-| Firebase    | ![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true)  |
-| Node.js     | ![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs&titles=true)     |
+</details>
 
-### 🛢️ Databases
+<details>
+  <summary>🖥️ Backend</summary>
 
-| Database   | Icon                                                                             |
-|------------|----------------------------------------------------------------------------------|
-| MongoDB    | ![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb&titles=true)    |
-| MySQL      | ![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true)        |
-| PostgreSQL | ![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgres&titles=true)|
+| Technology | Icon                                                                               |
+| ---------- | ---------------------------------------------------------------------------------- |
+| Axios      | ![Axios](https://go-skill-icons.vercel.app/api/icons?i=axios&titles=true)          |
+| Discord.js | ![Discord.js](https://go-skill-icons.vercel.app/api/icons?i=discordjs&titles=true) |
+| Express    | ![Express](https://go-skill-icons.vercel.app/api/icons?i=express&titles=true)      |
+| Firebase   | ![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true)    |
+| Node.js    | ![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs&titles=true)       |
 
-### 🧪 Tools & Platforms
+</details>
 
-| Tool/Service  | Icon                                                                             |
-|--------------|----------------------------------------------------------------------------------|
-| Discord      | ![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true)    |
-| Git          | ![Git](https://go-skill-icons.vercel.app/api/icons?i=git&titles=true)            |
-| GitHub       | ![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&titles=true)      |
+<details>
+  <summary>🛢️ Databases</summary>
+
+| Database   | Icon                                                                              |
+| ---------- | --------------------------------------------------------------------------------- |
+| MongoDB    | ![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb&titles=true)     |
+| MySQL      | ![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true)         |
+| PostgreSQL | ![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgres&titles=true) |
+
+</details>
+
+<details>
+  <summary>🧪 Tools & Platforms</summary>
+
+| Tool/Service | Icon                                                                                   |
+| ------------ | -------------------------------------------------------------------------------------- |
+| Discord      | ![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true)          |
+| Git          | ![Git](https://go-skill-icons.vercel.app/api/icons?i=git&titles=true)                  |
+| GitHub       | ![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&titles=true)            |
 | GitHub Pages | ![GitHub Pages](https://go-skill-icons.vercel.app/api/icons?i=githubpages&titles=true) |
-| Heroku       | ![Heroku](https://go-skill-icons.vercel.app/api/icons?i=heroku&titles=true)      |
-| Postman      | ![Postman](https://go-skill-icons.vercel.app/api/icons?i=postman&titles=true)    |
-| Vercel       | ![Vercel](https://go-skill-icons.vercel.app/api/icons?i=vercel&titles=true)      |
+| Heroku       | ![Heroku](https://go-skill-icons.vercel.app/api/icons?i=heroku&titles=true)            |
+| Postman      | ![Postman](https://go-skill-icons.vercel.app/api/icons?i=postman&titles=true)          |
+| Vercel       | ![Vercel](https://go-skill-icons.vercel.app/api/icons?i=vercel&titles=true)            |
 
-### 💻 Development Environment
+</details>
 
-| Tool       | Icon                                                                            |
-|------------|---------------------------------------------------------------------------------|
-| Brave      | ![Brave](https://go-skill-icons.vercel.app/api/icons?i=brave&titles=true)       |
-| Prettier   | ![Prettier](https://go-skill-icons.vercel.app/api/icons?i=prettier&titles=true) |
-| Terminal   | ![Terminal](https://go-skill-icons.vercel.app/api/icons?i=terminal&titles=true) |
-| VSCode     | ![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode&titles=true)     |
+<details>
+  <summary>💻 Development Environment</summary>
 
-### 📦 Package Managers
+| Tool     | Icon                                                                            |
+| -------- | ------------------------------------------------------------------------------- |
+| Brave    | ![Brave](https://go-skill-icons.vercel.app/api/icons?i=brave&titles=true)       |
+| Prettier | ![Prettier](https://go-skill-icons.vercel.app/api/icons?i=prettier&titles=true) |
+| Terminal | ![Terminal](https://go-skill-icons.vercel.app/api/icons?i=terminal&titles=true) |
+| VSCode   | ![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode&titles=true)     |
 
-| Package Manager | Icon                                                                         |
-|----------|------------------------------------------------------------------------------|
-| NPM      | ![NPM](https://go-skill-icons.vercel.app/api/icons?i=npm&titles=true)         |
-| Yarn     | ![Yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&titles=true)       |
+</details>
 
-### 🔤 What's Next?
+<details>
+  <summary>📦 Package Managers</summary>
 
+| Package Manager | Icon                                                                    |
+| --------------- | ----------------------------------------------------------------------- |
+| NPM             | ![NPM](https://go-skill-icons.vercel.app/api/icons?i=npm&titles=true)   |
+| Yarn            | ![Yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&titles=true) |
+
+</details>
+
+<details>
+  <summary>🔤 What's Next?</summary>
+  
 | Language | Icon                                                                                   |
 |----------|----------------------------------------------------------------------------------------|
 | C#       | ![C#](https://go-skill-icons.vercel.app/api/icons?i=cs&titles=true)                    |
@@ -127,4 +151,5 @@
 | Lua      | ![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua&titles=true)                  |
 | R        | ![R](https://go-skill-icons.vercel.app/api/icons?i=r&titles=true)                      |
 | Rust     | ![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true)                |
-
+  
+</details>
