@@ -43,7 +43,6 @@
 | Assembly   | ![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly&titles=true)     |
 | C          | ![C](https://go-skill-icons.vercel.app/api/icons?i=c&titles=true)                   |
 | Dart       | ![Dart](https://go-skill-icons.vercel.app/api/icons?i=dart&titles=true)             |
-| Go         | ![Go](https://go-skill-icons.vercel.app/api/icons?i=go&titles=true)                 |
 | Java       | ![Java](https://go-skill-icons.vercel.app/api/icons?i=java&titles=true)             |
 | JavaScript | ![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=javascript&titles=true) |
 | Python     | ![Python](https://go-skill-icons.vercel.app/api/icons?i=python&titles=true)         |
@@ -56,7 +55,6 @@
 
 | Technology  | Icon                                                                            |
 | ----------- | ------------------------------------------------------------------------------- |
-| Angular     | ![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular&titles=true)   |
 | CSS         | ![CSS](https://go-skill-icons.vercel.app/api/icons?i=css&titles=true)           |
 | Electron    | ![Electron](https://go-skill-icons.vercel.app/api/icons?i=electron&titles=true) |
 | Flutter     | ![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true)   |
@@ -72,10 +70,8 @@
 
 | Platform     | Icon                                                                                   |
 | ------------ | -------------------------------------------------------------------------------------- |
-| Android      | ![Android](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true)          |
 | Expo         | ![Expo](https://go-skill-icons.vercel.app/api/icons?i=expo&titles=true)                |
 | Flutter      | ![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true)          |
-| iOS          | ![iOS](https://go-skill-icons.vercel.app/api/icons?i=apple&titles=true)                |
 | React Native | ![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative&titles=true) |
 
 </details>
@@ -146,8 +142,12 @@
   
 | Language | Icon                                                                                   |
 |----------|----------------------------------------------------------------------------------------|
+| Android  | ![Android](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true)          |
+| Angular  | ![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular&titles=true)          |
 | C#       | ![C#](https://go-skill-icons.vercel.app/api/icons?i=cs&titles=true)                    |
 | C++      | ![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true)                  |
+| Go       | ![Go](https://go-skill-icons.vercel.app/api/icons?i=go&titles=true)                    |
+| iOS      | ![iOS](https://go-skill-icons.vercel.app/api/icons?i=apple&titles=true)                |
 | Lua      | ![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua&titles=true)                  |
 | R        | ![R](https://go-skill-icons.vercel.app/api/icons?i=r&titles=true)                      |
 | Rust     | ![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true)                |
