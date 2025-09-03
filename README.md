@@ -151,6 +151,6 @@
 | Lua      | ![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua&titles=true)                  |
 | R        | ![R](https://go-skill-icons.vercel.app/api/icons?i=r&titles=true)                      |
 | Rust     | ![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true)                |
-| Tailwind | ![Tailwind](https://go-skill-icons.vercel.app/api/icons?i=angular&titles=true)         |
+| Tailwind | ![Tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind&titles=true)         |
   
 </details>
