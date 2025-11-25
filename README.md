@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Mohammad El-Hassan!</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F2F2&width=435&lines=Software+Developer;React+%2F+TypeScript+Enthusiast;Full-Stack+Learner;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F2F2&width=435&lines=Software+Developer;TypeScript+Enthusiast;Full-Stack+Learner;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p>
