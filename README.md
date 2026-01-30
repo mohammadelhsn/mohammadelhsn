@@ -13,15 +13,14 @@
 ---
 
 ## 🧠 About Me
-
 - 👨‍💻 Passionate full-stack developer specializing in **TypeScript** with hands-on experience building web and mobile apps
 - 🎓 Pursuing a degree in Computer Science and Psychology, combining technical skills with human-centered design
-- 🤖 Creator of multiple Discord bots using TypeScript, JavaScript, C#, and C++ — including a major project with PostgreSQL and Heroku hosting
+- 🤖 Creator of multiple Discord bots using TypeScript, JavaScript, C#, and C++, including a major project with PostgreSQL and Heroku hosting
 - ⚙️ Developed a custom API powering my portfolio and various projects, showcasing backend architecture and API design skills
 - 🚀 Actively working with **React**, **React Native**, **Vite**, and **Expo** to build performant user interfaces
-- 🌱 Always learning and expanding my toolkit — next goals include backend scaling, testing, and advanced TypeScript patterns
+- 🌱 Always learning and expanding my toolkit, next goals include backend scaling, testing, and advanced TypeScript patterns
 - 🔗 Portfolio & projects: [mohammadelhsn.github.io](https://mohammadelhsn.github.io)
-
+  
 ---
 
 ## 📊 GitHub Stats
