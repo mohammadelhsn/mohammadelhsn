@@ -42,10 +42,13 @@
 | ---------- | ----------------------------------------------------------------------------------- |
 | Assembly   | ![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly&titles=true)     |
 | C          | ![C](https://go-skill-icons.vercel.app/api/icons?i=c&titles=true)                   |
+| C#         | ![C#](https://go-skill-icons.vercel.app/api/icons?i=cs&titles=true)                 |
+| C++        | ![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true)               |
 | Dart       | ![Dart](https://go-skill-icons.vercel.app/api/icons?i=dart&titles=true)             |
 | Java       | ![Java](https://go-skill-icons.vercel.app/api/icons?i=java&titles=true)             |
 | JavaScript | ![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=javascript&titles=true) |
 | Python     | ![Python](https://go-skill-icons.vercel.app/api/icons?i=python&titles=true)         |
+| R          | ![R](https://go-skill-icons.vercel.app/api/icons?i=r&titles=true)                   |
 | TypeScript | ![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts&titles=true)         |
 
 </details>
@@ -97,6 +100,7 @@
 | MongoDB    | ![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb&titles=true)     |
 | MySQL      | ![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true)         |
 | PostgreSQL | ![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgres&titles=true) |
+| Firestore  | ![Firestore](https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true)  |
 
 </details>
 
@@ -144,13 +148,10 @@
 |----------|----------------------------------------------------------------------------------------|
 | Android  | ![Android](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true)          |
 | Angular  | ![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular&titles=true)          |
-| C#       | ![C#](https://go-skill-icons.vercel.app/api/icons?i=cs&titles=true)                    |
-| C++      | ![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true)                  |
 | Go       | ![Go](https://go-skill-icons.vercel.app/api/icons?i=go&titles=true)                    |
 | iOS      | ![iOS](https://go-skill-icons.vercel.app/api/icons?i=apple&titles=true)                |
 | Lua      | ![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua&titles=true)                  |
-| R        | ![R](https://go-skill-icons.vercel.app/api/icons?i=r&titles=true)                      |
 | Rust     | ![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true)                |
-| Tailwind | ![Tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind&titles=true)         |
+| Tailwind | ![Tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind&titles=true)        |
   
 </details>
