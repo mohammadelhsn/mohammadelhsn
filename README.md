@@ -64,6 +64,8 @@
 | Material UI | ![Material UI](https://go-skill-icons.vercel.app/api/icons?i=mui&titles=true)   |
 | React       | ![React](https://go-skill-icons.vercel.app/api/icons?i=react&titles=true)       |
 | Vite        | ![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite&titles=true)         |
+| Sanity      | ![Sanity](https://go-skill-icons.vercel.app/api/icons?i=sanity&titles=true)     |
+| Webflow     | ![Webflow](https://go-skill-icons.vercel.app/api/icons?i=webflow&titles=true)   |
 
 </details>
 
@@ -88,6 +90,7 @@
 | Express    | ![Express](https://go-skill-icons.vercel.app/api/icons?i=express&titles=true)      |
 | Firebase   | ![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true)    |
 | Node.js    | ![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs&titles=true)       |
+| Flask      | ![Flask](https://go-skill-icons.vercel.app/api/icons?i=flask&titles=true)          |
 
 </details>
 
@@ -127,6 +130,7 @@
 | Prettier | ![Prettier](https://go-skill-icons.vercel.app/api/icons?i=prettier&titles=true) |
 | Terminal | ![Terminal](https://go-skill-icons.vercel.app/api/icons?i=terminal&titles=true) |
 | VSCode   | ![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode&titles=true)     |
+| WSL      | ![WSL](https://go-skill-icons.vercel.app/api/icons?i=wsl&titles=true)           |
 
 </details>
 
@@ -141,16 +145,59 @@
 </details>
 
 <details>
+  <summary>🖇️ Office & Productivity</summary>
+
+| Tool       | Icon                                                                            |
+| ---------- | ------------------------------------------------------------------------------- |
+| Teams      | ![Teams](https://go-skill-icons.vercel.app/api/icons?i=teams&titles=true)       |
+| Outlook    | ![Outlook](https://go-skill-icons.vercel.app/api/icons?i=outlook&titles=true)   |
+| PowerPoint | ![PowerPoint](https://go-skill-icons.vercel.app/api/icons?i=powerpoint&titles=true) |
+| Word       | ![Word](https://go-skill-icons.vercel.app/api/icons?i=word&titles=true)         |
+| SharePoint | ![SharePoint](https://go-skill-icons.vercel.app/api/icons?i=sharepoint&titles=true) |
+
+</details>
+
+<details>
+  <summary>🤖 AI / Modern Tools</summary>
+
+| Tool      | Icon                                                                            |
+| --------- | ------------------------------------------------------------------------------- |
+| ChatGPT   | ![ChatGPT](https://go-skill-icons.vercel.app/api/icons?i=chatgpt&titles=true)   |
+| Gemini    | ![Gemini](https://go-skill-icons.vercel.app/api/icons?i=gemini&titles=true)     |
+
+</details>
+
+<details>
   <summary>🔤 What's Next?</summary>
   
-| Language | Icon                                                                                   |
-|----------|----------------------------------------------------------------------------------------|
-| Android  | ![Android](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true)          |
-| Angular  | ![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular&titles=true)          |
-| Go       | ![Go](https://go-skill-icons.vercel.app/api/icons?i=go&titles=true)                    |
-| iOS      | ![iOS](https://go-skill-icons.vercel.app/api/icons?i=apple&titles=true)                |
-| Lua      | ![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua&titles=true)                  |
-| Rust     | ![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true)                |
-| Tailwind | ![Tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind&titles=true)        |
-  
+| Language / Tool | Icon                                                                                   |
+|-----------------|----------------------------------------------------------------------------------------|
+| Android         | ![Android](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true)          |
+| Angular         | ![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular&titles=true)          |
+| AWS             | ![AWS](https://go-skill-icons.vercel.app/api/icons?i=aws&titles=true)                  |
+| Azure           | ![Azure](https://go-skill-icons.vercel.app/api/icons?i=azure&titles=true)              |
+| Docker          | ![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true)            |
+| Figma           | ![Figma](https://go-skill-icons.vercel.app/api/icons?i=figma&titles=true)              |
+| GCP             | ![GCP](https://go-skill-icons.vercel.app/api/icons?i=gcp&titles=true)                  |
+| Go              | ![Go](https://go-skill-icons.vercel.app/api/icons?i=go&titles=true)                    |
+| GitHub Actions  | ![GitHub Actions](https://go-skill-icons.vercel.app/api/icons?i=github-actions&titles=true) |
+| Google Colab    | ![Google Colab](https://go-skill-icons.vercel.app/api/icons?i=google-colab&titles=true)|
+| iOS             | ![iOS](https://go-skill-icons.vercel.app/api/icons?i=apple&titles=true)                |
+| Jupyter         | ![Jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter&titles=true)          |
+| Kubernetes      | ![Kubernetes](https://go-skill-icons.vercel.app/api/icons?i=kubernetes&titles=true)    |
+| Lua             | ![Lua](https://go-skill-icons.vercel.app/api/icons?i=lua&titles=true)                  |
+| Linux           | ![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux&titles=true)              |
+| Matplotlib      | ![Matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib&titles=true)    |
+| Next.js         | ![Next.js](https://go-skill-icons.vercel.app/api/icons?i=nextjs&titles=true)           |
+| Pandas          | ![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas&titles=true)            |
+| Pytest          | ![Pytest](https://go-skill-icons.vercel.app/api/icons?i=pytest&titles=true)            |
+| React Bootstrap | ![React Bootstrap](https://go-skill-icons.vercel.app/api/icons?i=react-bootstrap&titles=true) |
+| Rust            | ![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true)                |
+| Tableau         | ![Tableau](https://go-skill-icons.vercel.app/api/icons?i=tableau&titles=true)          |
+| Tailwind        | ![Tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind&titles=true)        |
+| TensorFlow      | ![TensorFlow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow&titles=true)    |
+| Vitest          | ![Vitest](https://go-skill-icons.vercel.app/api/icons?i=vitest&titles=true)            |
+
 </details>
+
+
