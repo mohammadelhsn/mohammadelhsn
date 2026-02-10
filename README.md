@@ -180,8 +180,8 @@
 | Figma           | ![Figma](https://go-skill-icons.vercel.app/api/icons?i=figma&titles=true)              |
 | GCP             | ![GCP](https://go-skill-icons.vercel.app/api/icons?i=gcp&titles=true)                  |
 | Go              | ![Go](https://go-skill-icons.vercel.app/api/icons?i=go&titles=true)                    |
-| GitHub Actions  | ![GitHub Actions](https://go-skill-icons.vercel.app/api/icons?i=github-actions&titles=true) |
-| Google Colab    | ![Google Colab](https://go-skill-icons.vercel.app/api/icons?i=google-colab&titles=true)|
+| GitHub Actions  | ![GitHub Actions](https://go-skill-icons.vercel.app/api/icons?i=githubactions&titles=true) |
+| Google Colab    | ![Google Colab](https://go-skill-icons.vercel.app/api/icons?i=googlecolab&titles=true)|
 | iOS             | ![iOS](https://go-skill-icons.vercel.app/api/icons?i=apple&titles=true)                |
 | Jupyter         | ![Jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter&titles=true)          |
 | Kubernetes      | ![Kubernetes](https://go-skill-icons.vercel.app/api/icons?i=kubernetes&titles=true)    |
@@ -191,7 +191,7 @@
 | Next.js         | ![Next.js](https://go-skill-icons.vercel.app/api/icons?i=nextjs&titles=true)           |
 | Pandas          | ![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas&titles=true)            |
 | Pytest          | ![Pytest](https://go-skill-icons.vercel.app/api/icons?i=pytest&titles=true)            |
-| React Bootstrap | ![React Bootstrap](https://go-skill-icons.vercel.app/api/icons?i=react-bootstrap&titles=true) |
+| React Bootstrap | ![React Bootstrap](https://go-skill-icons.vercel.app/api/icons?i=reactbootstrap&titles=true) |
 | Rust            | ![Rust](https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true)                |
 | Tableau         | ![Tableau](https://go-skill-icons.vercel.app/api/icons?i=tableau&titles=true)          |
 | Tailwind        | ![Tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind&titles=true)        |
